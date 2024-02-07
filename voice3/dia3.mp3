@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>404-乐乐课堂</title>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	</head>
+	<body>		
+		<div style="margin-left:-470px;position:absolute;top:50px;left:50%;width:940px;height:460px;background:url(/html/image/error.png) 0px 0px no-repeat;">
+			<a href="/index.php" style="text-decoration:none;margin-left:-93px;left:50%;position:absolute;top:335px;background:url(/html/image/1.png) 0px 0px no-repeat;width:185px;line-height:60px;color:#fff;text-align:center;font-size: 18px;font-weight: bold;text-shadow: 1px 1px 1px #000,-1px -1px 1px #000,-2px 1px 1px #000,1px -1px 1px #000;">返回首页</a>
+		</div>
+	</body>
+</html>
